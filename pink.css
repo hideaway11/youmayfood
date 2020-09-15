@@ -195,6 +195,11 @@ header h1{
     margin-top:20px;
     margin-right: 30px;
   }
+  
+  .article{
+    display: block;
+  }
+
 
   .home{
     background-color: mediumseagreen;

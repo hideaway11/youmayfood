@@ -171,6 +171,7 @@ header h1{
     height: 35000px;
     background-color: rgba(250,69,0,0.7);
   }
+
   .all-in{
     width:100%;
     flex-direction: column;
@@ -182,7 +183,7 @@ header h1{
     margin: 0 ;
     border-radius: 0px;
     font-size: 20px;
-    height:32000px;
+    height:31000px;
   }
 
   .next{
@@ -195,11 +196,10 @@ header h1{
     margin-top:20px;
     margin-right: 30px;
   }
-  
+
   .article{
     display: block;
   }
-
 
   .home{
     background-color: mediumseagreen;
@@ -445,7 +445,7 @@ header h1{
 }
 
 .insta h2 a{
-  text-decoration:underline;
+  text-decoration:none;
   color: black;
 }
 
@@ -485,29 +485,31 @@ header h1{
   }
 
   .insta{
-    height:340px;
+    height:360px;
+    margin-top:100px;
   }
 
   .insta p{
-    font-size: 35px;
-    padding-top: 90px;
-    padding-bottom: 60px;
+    font-size: 38px;
+    padding-top: 80px;
+    padding-bottom: 70px;
   }
 
   .insta p a{
-    padding: 15px 25px;
+    padding: 20px 25px;
   }
 
   .insta h2{
-    font-size: 40px;
+    font-size: 53px;
     padding-top: 0px;
   }
 
   .insta h6{
-    font-size: 37px;
+    font-size: 40px;
   }
 
   .blank{
+    display: block;
     height:80px;
   }
 
@@ -534,4 +536,3 @@ footer p{
   text-align: center;
   font-size: 20px;
 }
-
